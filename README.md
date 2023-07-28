@@ -1,5 +1,7 @@
 # react-native-esptouch-2
 
+# I forked this repo to edit package react-native-esptouch-2 created by https://www.npmjs.com/package/@lorenzovecchi/react-native-esptouch-2/v/0.1.4      
+
 Used to configure ESP devices to connect to target AP
 
 - Support both Android and iOS
@@ -89,4 +91,3 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ## License
 
 MIT
-# -lorenzovecchi-react-native-esptouch-2-forked
